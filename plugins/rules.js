@@ -11,7 +11,7 @@ Syarat dan Ketentuan Bot *KAMI*
 6. Apapun yang anda perintah pada bot ini, KAMI TIDAK AKAN BERTANGGUNG JAWAB!
 
 Thanks !
-2021©Drawl Nag
+2021©iMiKUBOT🤖
 `.trim(), m)
 }
 handler.help = ['rules']
